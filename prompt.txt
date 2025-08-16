@@ -1,0 +1,9 @@
+Date Submitted	Title	Submitted By	Link TLDR	Problem	Solution	Domain Experts	Target projects	Impact Areas	Risks 	Funding Ask	Externall Funders (amounts + partners)
+
+create a markdown file data/data.md of the data from data/data.csv with the above fields for each row
+
+use the scripts in scripts/ if needed. use the most concise representation of the tldr as possible.  put less than 1 sentence in each row, keep it very concise. 
+
+important:
+- clean up after yourself, do not alter any files besides data/data.csv and data/data.md
+- use the data in /posts
