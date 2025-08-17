@@ -55,35 +55,24 @@ The `data.csv` file contains the following information for each proposal:
 
 ### Download Posts
 ```bash
-python3 download_posts.py
+python3 scripts/download_posts.py
 ```
 Downloads all forum posts from URLs in `data.csv` to the `posts/` directory.
 
 ### Extract and Analyze Data
 ```bash
-python3 extract_post_data.py
+python3 scripts/extract_post_data.py
 ```
 Parses HTML files and extracts relevant information to populate all CSV columns.
 
-## Impact Areas Distribution
 
-Based on the analysis of 22 proposals:
-- **Infrastructure** - 4 proposals
-- **Governance** - 4 proposals  
-- **AI/ML** - 3 proposals
-- **DeFi** - 3 proposals
-- **Community** - 1 proposal
-- **Privacy** - 1 proposal
-- **UX/Consumer** - 1 proposal
-- **Data** - 1 proposal
-- **Enterprise** - 1 proposal
-- **Funding/Meta** - 1 proposal
+### Create report card
+```bash
+claude code
+<< edit/insert prompt.txt >>
+```
 
-## Execution Readiness
-
-- **High** - 15 proposals (68%)
-- **Medium** - 4 proposals (18%)
-- **Low** - 3 proposals (14%)
+Create report card judging each proposal
 
 ## Requirements
 

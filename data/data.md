@@ -1,28 +1,145 @@
-# Gitcoin GG24 Sensemaking Reports
+# Outcome Based Funding for Web3 Popups
+## by thedevanshmehta
 
-| Date Submitted | Title | Submitted By | Link | TLDR | Problem | Solution | Domain Experts | Target projects | Impact Areas | Risks | Funding Ask | External Funders |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| August 15, 2025 | Outcome Based Funding for Web3 Popups | thedevanshmehta | [Link](https://gov.gitcoin.co/t/outcome-based-funding-for-web3-popups-gg24-sensemaking-report/23054) | Web3 popup residencies for Ethereum ecosystem | Web3 popup residencies like Zuzalu, Edge City have become catalytic hubs | | @nidiyia, @JamesFarrell | | | | | |
-| August 15, 2025 | Metafunding: Fund PGF Mechanisms & Research | daviddao | [Link](https://gov.gitcoin.co/t/metafunding-fund-pgf-mechanisms-research-gitcoin-3-0-sensemaking-report/23024) | Fund PGF research experiments | Without targeted research funding, Ethereum risks running experiments without knowing what works | Need 'Uniswap of PGF' - breakout success at scale | | | | | | |
-| August 15, 2025 | AI Builders Domain | thedevanshmehta | [Link](https://gov.gitcoin.co/t/ai-builders-domain-gg24-sensemaking-report/23049) | AI integration in onchain economy | AI is everywhere, need to use LLMs faster than traditional world | | | | | | | |
-| August 15, 2025 | Mechanism Builders Domain | thedevanshmehta | [Link](https://gov.gitcoin.co/t/mechanism-builders-domain-gg24-sensemaking-report/23042) | Solve Ethereum's public goods problem | Ethereum needs to solve its own public goods problem for projects providing value | | | | | | | |
-| August 15, 2025 | DeFi Transparency and Decentralization Assessment | marcvlad | [Link](https://gov.gitcoin.co/t/gg24-sensemaking-report-defi-transparency-and-decentralization-assessment/22966) | DeFi transparency & decentralization assessment | Lack of standardized framework for assessing decentralization levels | | | | | | | |
-| August 15, 2025 | InfoFi | vaughnmck | [Link](https://gov.gitcoin.co/t/infofi-domain-gg24-sensemaking-report/23038) | InfoFi | | | vaughnmck | | | | | |
-| August 15, 2025 | The EPIC Awards: Ethereum People's Choice Awards | MoeNick | [Link](https://gov.gitcoin.co/t/the-epic-awards-ethereum-people-s-choice-awards-powered-by-pairwise/23033) | Community-powered recognition awards | Legitimacy from diverse voices via multi-stakeholder voting | Category-specific expertise for proven impact | @generalmagic, @you, @moenick | | | | | |
-| August 15, 2025 | Open Civic Innovation | omniharmonic | [Link](https://gov.gitcoin.co/t/open-civic-innovation-gitcoin-3-0-sensemaking-report/23035) | Open Civic Innovation for democratic renewal | Civic systems face declining trust, polarization, inadequate representation | Collaborative model co-creating grants | @opencivics | | | | | |
-| August 15, 2025 | Paradox Management for Ethereum Governance | mafer-cordovas | [Link](https://gov.gitcoin.co/t/gravitydao-v3-paradox-management-for-ethereum-governance-gitcoin-3-0-sensemaking-report/23032) | Evidence-based paradox management for governance | Shadow hierarchy paradox despite open/permissionless narrative | | | | | | | |
-| August 15, 2025 | OSS Domain: Developer Tooling & Core Infrastructure | mathildawrites | [Link](https://gov.gitcoin.co/t/gitcoin-oss-domain-developer-tooling-core-infrastructure-gg24-sensemaking-report/23022) | Underfunded developer infrastructure | Tools securing billions receive minimal funding while apps attract investment | Prevent duplicated efforts across teams | | | | | | |
-| August 15, 2025 | Ethereum Mass Adoption: User Experience & Consumer Apps | atenyun | [Link](https://gov.gitcoin.co/t/gg24-sensemaking-report-user-experience-consumer-apps/23020) | Making Ethereum easier for new users | Complex UX with gas tokens, gas limits despite Layer 2 improvements | | | | | | | |
-| August 15, 2025 | Open Data Standards, Infrastructure & Analytics for Ethereum | rohit | [Link](https://gov.gitcoin.co/t/gg24-sensemaking-open-data-standards-infrastructure-analytics-for-ethereum/23000) | Fragmentation threatens Ethereum scaling | Fragmentation, opaque data, siloed coordination threaten ecosystem | Data Tooling Atlas for structured community research | | | | | | |
-| August 15, 2025 | Developer Tooling & Core Infrastructure | MathildaDV | [Link](https://gov.gitcoin.co/t/gitcoin-oss-domain-developer-tooling-core-infrastructure-gg24-sensemaking-report/23022) | Underfunded developer infrastructure | Tools securing billions receive minimal funding while apps attract investment | Prevent duplicated efforts across teams | | | | | | |
-| August 15, 2025 | Metafunding: Fund PGF Mechanisms & Research | DavidDAO | [Link](https://gov.gitcoin.co/t/metafunding-fund-pgf-mechanisms-research-gitcoin-3-0-sensemaking-report/23024) | Fund PGF research experiments | Without targeted research funding, Ethereum risks running experiments without knowing what works | Need 'Uniswap of PGF' - breakout success at scale | | | | | | |
-| August 15, 2025 | Breaking into Enterprise | cryptotwilight | [Link](https://gov.gitcoin.co/t/gg24-sense-making-report-breaking-into-enterprise/23026) | Enterprise adoption challenge | Ethereum adoption in Enterprise remains elusive | Community driven solution for corporate pain points | | | | | | |
-| August 13, 2025 | Privacy-Preserving KYC | M0nkeyFl0wer | [Link](https://gov.gitcoin.co/t/gg24-sensemaking-report-privacy-preserving-legally-compliant-kyc-for-grants-and-web3/22923) | Privacy-preserving KYC for grants | KYC poses privacy risks like honeypot for hackers | Dogfood privacy tools while allocating funds | @MathildaDV, @owocki | | | | | |
-| July 16, 2025 | Ethereum Localism x Regen Coordination | MontyMerlin | [Link](https://gov.gitcoin.co/t/ethereum-localism-x-regen-coordination-gitcoin-3-0-sensemaking-report/21940) | Mass adoption via local embedding | Ethereum Localism addresses significant long-term challenges | Communities filling gaps left by traditional financial institutions | @LuukDAO, @Oba, @luizfernando | | | | | |
-| July 9, 2025 | Pre-&-Post-Grant Coordination | sepu85 | [Link](https://gov.gitcoin.co/t/gg24-sensemaking-report-at-pre-post-grant-coordination-from-allocation-to-alignment-accountability/21711) | From allocation to alignment/accountability | Ethereum invests in collective infrastructure but overlooks inner architecture | | @migrenaa | | | | | |
-| July 8, 2025 | Builder Development as Ethereum's Most Meaningful Problem | KarlaGod | [Link](https://gov.gitcoin.co/t/gitcoin-sensemaking-report-builder-development-as-ethereum-s-most-meaningful-problem/21677) | Builder sustainability challenge | Ethereum faces builder sustainability challenge while relying on builders | | | | | | | |
-| June 25, 2025 | Web3 Startup Acceleration | Hydrapad | [Link](https://gov.gitcoin.co/t/sensemaking-report-for-gg24-beyond-concentrating-on-fragmented-fundraising-issues/21250) | Fragmented fundraising for startups | Early-stage startups face fragmented fundraising, inadequate mentorship | Unified support stack (fundraising + mentorship) | @deltajuliet, @kylejensen, @MathildaDV | | | | | |
-| June 20, 2025 | Ethereum For The World | LuukDAO | [Link](https://gov.gitcoin.co/t/ethereum-for-the-world-dda-report-draft/21123) | Sustainable Development on Ethereum | Ethereum infrastructure underutilized by institutions tackling SDGs | Stage for future domain growth on real-world challenges | | | | | | |
-| August 15, 2025 | Infofi | vaughnmck | [Link](https://gov.gitcoin.co/t/infofi-domain-gg24-sensemaking-report/23038) | Infofi | | | vaughnmck | | | | | |
-| August 1, 2025 | The case for privacy: GG24 MACI <> Allo Capital | john_guilding | [Link](https://gov.gitcoin.co/t/the-case-for-privacy-gg24-maci-allo-capital/22491) | Privacy is a human right | Privacy essential for human dignity, autonomy, freedom in digital age | | | | | | | |
-| August 14, 2025 | DeSci | swiftevo | [Link](https://gov.gitcoin.co/t/desci-gitcoin-3-0-sensemaking-report/22994) | Decentralized Science importance | Science needs cumulative knowledge, peer review, free exchange of ideas | | @DeSci_Round_Ops | | | | | |
+## TLDR
+
+Build transparent impact-driven funding for Web3 popups with documented evaluation
+
+## Problem
+
+Web3 popup residencies like Zuzalu lack transparent budgeting and impact measurement
+
+## Solution
+
+Require Hypercerts with costs/outputs, calculate impact scores for proportional funding
+
+## Domain Experts
+
+@nidiyia, @JamesFarrell
+
+## Target Projects
+
+Web3 popup cities, residencies, IRL gatherings
+
+## Risks
+
+Financial opacity, informal impact stories, misallocated capital
+
+## Outside Funding
+
+Must have <30% from GG24, need co-funding from other sources
+
+https://gov.gitcoin.co/t/outcome-based-funding-for-web3-popups-gg24-sensemaking-report/23054
+
+# Owockis scorecard
+
+|#|Criterion|0|1|2|Notes|
+| --- | --- | --- | --- | --- | --- |
+|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids "solutionism"||X||Good problem framing around transparency|
+|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research|||X|Hypercerts approach is solid|
+|3|Domain Expertise – Proposal has active involvement from recognized experts||X||Has named experts but limited background|
+|4|Co-Funding – Has financial backing beyond just Gitcoin|||X|Requires <30% from GG24|
+|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain|||X|Impact scoring fits domain well|
+|6|Clarity (TL;DR) – Includes a concise summary at the top|||X|Clear TLDR provided|
+|7|Execution Readiness – Can deliver meaningful results by October||X||Seems feasible but timeline unclear|
+|8|Other - general vibe check and other stuff I may have missed above||X||Solid proposal, good potential|
+
+Total Score: 11 / 16
+
+
+# Metafunding: Fund PGF Mechanisms & Research
+## by daviddao
+
+## TLDR
+
+Fund public goods funding mechanisms and research infrastructure
+
+## Problem
+
+Lack of sustainable funding for PGF research and mechanism development
+
+## Solution
+
+Create metafunding infrastructure to support PGF mechanisms and research
+
+## Domain Experts
+
+Limited expert involvement identified
+
+## Target Projects
+
+PGF mechanisms, research initiatives
+
+## Risks
+
+Dependency on mechanism effectiveness
+
+## Outside Funding
+
+Not clearly specified
+
+https://gov.gitcoin.co/t/metafunding-fund-pgf-mechanisms-research-gitcoin-3-0-sensemaking-report/23024
+
+# Owockis scorecard
+
+|#|Criterion|0|1|2|Notes|
+| --- | --- | --- | --- | --- | --- |
+|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids "solutionism"||X||Meta-problem but important|
+|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research|||X|High leverage metafunding|
+|3|Domain Expertise – Proposal has active involvement from recognized experts|X|||Limited expert detail|
+|4|Co-Funding – Has financial backing beyond just Gitcoin|X|||Not specified|
+|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain||X||Reasonable approach|
+|6|Clarity (TL;DR) – Includes a concise summary at the top||X||Brief but vague|
+|7|Execution Readiness – Can deliver meaningful results by October|X|||Unclear execution plan|
+|8|Other - general vibe check and other stuff I may have missed above||X||Important area but needs detail|
+
+Total Score: 6 / 16
+
+
+# AI Builders Domain
+## by thedevanshmehta
+
+## TLDR
+
+AI integration in onchain economy requires dedicated builder support
+
+## Problem
+
+AI everywhere including onchain, need to outcompete traditional world
+
+## Solution
+
+Create dedicated AI builders domain with focused support
+
+## Domain Experts
+
+Not clearly specified
+
+## Target Projects
+
+AI/onchain integration projects
+
+## Risks
+
+Competition with traditional AI development
+
+## Outside Funding
+
+Not specified
+
+https://gov.gitcoin.co/t/ai-builders-domain-gg24-sensemaking-report/23049
+
+# Owockis scorecard
+
+|#|Criterion|0|1|2|Notes|
+| --- | --- | --- | --- | --- | --- |
+|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids "solutionism"||X||AI is important but broad|
+|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research||X||Decent leverage potential|
+|3|Domain Expertise – Proposal has active involvement from recognized experts|X|||No experts named|
+|4|Co-Funding – Has financial backing beyond just Gitcoin|X|||Not mentioned|
+|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain||X||Standard domain approach|
+|6|Clarity (TL;DR) – Includes a concise summary at the top||X||Brief but needs detail|
+|7|Execution Readiness – Can deliver meaningful results by October|X|||Vague on execution|
+|8|Other - general vibe check and other stuff I may have missed above||X||Trendy topic, needs substance|
+
+Total Score: 5 / 16

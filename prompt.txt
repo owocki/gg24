@@ -1,9 +1,82 @@
-Date Submitted	Title	Submitted By	Link TLDR	Problem	Solution	Domain Experts	Target projects	Impact Areas	Risks 	Funding Ask	Externall Funders (amounts + partners)
+first delete data/data.md
 
-create a markdown file data/data.md of the data from data/data.csv with the above fields for each row
+then
 
-use the scripts in scripts/ if needed. use the most concise representation of the tldr as possible.  put less than 1 sentence in each row, keep it very concise. 
+
+create a markdown file data/data.md of the data from data/data.csv each the above fields: 
+
+| Date Submitted	Title	Submitted By	Link TLDR	Problem	Solution	Domain Experts	Target projects	Impact Areas	Risks 	Funding Ask	Externall Funders (amounts + partners)
+
+lay them out like this
+
+```
+# TITLE
+## by NAME
+
+## TLDR
+
+TLDR
+
+## Problem
+
+PROBLEM
+
+## Solution
+
+SOLUTION
+
+## Domain Experts
+
+DOMAIN EXPERTS
+
+## Target Projects
+
+TARTGET PROJECTS
+
+## Risks
+
+RISKS
+
+## Outside
+
+OUTSIDE FUNDING
+
+LINK
+
+# Owockis scorecard
+
+|#|Criterion|0|1|2|Notes|
+| --- | --- | --- | --- | --- | --- |
+|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids “solutionism”|||||
+|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research|||||
+|3|Domain Expertise – Proposal has active involvement from recognized experts|||||
+|4|Co-Funding – Has financial backing beyond just Gitcoin|||||
+|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain|||||
+|6|Clarity (TL;DR) – Includes a concise summary at the top|||||
+|7|Execution Readiness – Can deliver meaningful results by October|||||
+|8|Other - general vibe check and other stuff I may have missed aboev..|||||
+
+Total Score: ___ / 16
+
+
+```
 
 important:
 - clean up after yourself, do not alter any files besides data/data.csv and data/data.md
 - use the data in /posts
+- use the scripts in scripts/ if needed. 
+- when filling out the information, use the most concise representation of the tldr as possible. unless explicitly asked to be verbose, put less than 1 sentence in each row, keep it very concise. 
+- fill out the scorecard for each proposal using kevin owockis vision and voice.
+- do 3 posts as a test first, then let me check the output. then well do the remainder.
+- after you are done evaluating each proposal put the following content at the top of the markdown file
+
+```
+# Owocki Sensemaking Sensemaking YYYY/MM/DD
+
+## Leaderboard
+< create a table, insert the title, author, proposal link, and rating of each proposal.  sort by rating descending >
+
+# Reports
+
+```
+
