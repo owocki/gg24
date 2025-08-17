@@ -10,40 +10,49 @@ create a markdown file data/data.md of the data from data/data.csv each the abov
 lay them out like this
 
 ```
-# TITLE
-## by NAME
+# [TITLE](URL)
 
-## TLDR
+by NAME
+
+### TLDR
 
 TLDR
 
-## Problem
+### Problem
 
 PROBLEM
 
-## Solution
+### Solution
 
 SOLUTION
 
-## Domain Experts
+### Domain Experts
 
 DOMAIN EXPERTS
 
-## Target Projects
+### Target Projects (Examples)
 
 TARTGET PROJECTS
 
-## Risks
+### Deployment strategy
+
+WHAT TYPE OF DOMAIN IS IT?
+SMALL_OR_BIG
+HOW_SOON_RESULTS
+IS_IT_TECHNOCRATIC_OR_DEMOCRATIC?
+RETRO_OR_PROACTIVE
+HOW_MUCH_CAPITAL_NEEDED
+MECHANISM
+
+### Risks
 
 RISKS
 
-## Outside
+## Outside Funding
 
 OUTSIDE FUNDING
 
-LINK
-
-# Owockis scorecard
+## Owockis scorecard
 
 |#|Criterion|0|1|2|Notes|
 | --- | --- | --- | --- | --- | --- |
@@ -56,7 +65,24 @@ LINK
 |7|Execution Readiness – Can deliver meaningful results by October|||||
 |8|Other - general vibe check and other stuff I may have missed aboev..|||||
 
+### Score
+
 Total Score: ___ / 16
+
+### Feedback:
+
+10_BULLET_POINTS_OF_FEEDBACK
+
+
+### Steel man case for/against:
+
+#### For
+
+STEEL_MAN_CASE_FOR_PROPOSAL
+
+#### Against
+
+STEEL_MAN_CASE_AGFAINST_PROPOSAL
 
 
 ```
@@ -71,12 +97,25 @@ important:
 - after you are done evaluating each proposal put the following content at the top of the markdown file
 
 ```
-# Owocki Sensemaking Sensemaking YYYY/MM/DD
+# Sensemaking about GG24 Sensemaking
+## YYYY/MM/DD - Version 0.1.0
+## By Owocki
+
+(vibe-written by claude code using [this prompt](https://github.com/owocki/gg24/blob/main/prompt.txt), iterated on, + edited for accuracy quality and legibility by owocki himself.
 
 ## Leaderboard
-< create a table, insert the title, author, proposal link, and rating of each proposal.  sort by rating descending >
+< create a table, insert the "[TITLE](URL) by AUTHOR", OWOCKI_RATING, OWOCKI_HIGH_LEVEL_FEEDBACK_FROM_OWOCKI, OWOCKIS_ROSE, OWOCKI_THORN, OWOCKI_BUD (where rose = whats good about it, thorn = what needs improvmeent, and bud = what could blossom into being good) of each proposal.  sort by rating descending >
 
 # Reports
 
 ```
+
+
+after you've done all that, change the title of each entry in the list to
+
+```
+# (RATING) TITLE
+```
+
+and sort the proposals in the body by the rating in descending order
 
