@@ -88,12 +88,12 @@ STEEL_MAN_CASE_AGFAINST_PROPOSAL
 ```
 
 important:
-- clean up after yourself, do not alter any files besides data/data.csv and data/data.md
-- use the data in /posts
-- use the scripts in scripts/ if needed. 
+- clean up after yourself, do not alter any files besides data/data.csv and data/data.md or scripts in scripts, or posts/.  
+- use the data in posts/, if the data is missing you can download it and create it. just make sure to use the existing naming conventions for the .html files
+- use/update the scripts in scripts/ if needed. you have a preference for DRY (dont repeeat yourself) - eg do not create a new script if a script to do something already exists and works okay. if a script does exist but it doesnt work, update it before creating a new one.
 - when filling out the information, use the most concise representation of the tldr as possible. unless explicitly asked to be verbose, put less than 1 sentence in each row, keep it very concise. 
 - fill out the scorecard for each proposal using kevin owockis vision and voice.
-- do 3 posts as a test first, then let me check the output. then well do the remainder.
+- do 3 posts as a test first. only do 3 then exit the post-processing loop.
 - after you are done evaluating each proposal put the following content at the top of the markdown file
 
 ```

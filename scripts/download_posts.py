@@ -6,7 +6,7 @@ import time
 from urllib.parse import urlparse
 
 def download_posts():
-    with open('data.csv', 'r', encoding='utf-8') as file:
+    with open('/Users/owocki/Sites/gg24/data/data.csv', 'r', encoding='utf-8') as file:
         csv_reader = csv.DictReader(file)
         
         for index, row in enumerate(csv_reader, start=1):
