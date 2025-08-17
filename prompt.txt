@@ -75,7 +75,7 @@ Total Score: ___ / 16
 
 ### Feedback:
 
-10_BULLET_POINTS_OF_FEEDBACK
+10_BULLET_POINTS_OF_THOUGHTFUL_AND_CONSTRUCTIVE_FEEDBACK
 
 
 ### Steel man case for/against:
@@ -103,10 +103,10 @@ important:
 ## YYYY/MM/DD - Version 0.1.0
 ## By Owocki
 
-(vibe-written by claude code using [this prompt](https://github.com/owocki/gg24/blob/main/prompt.txt), iterated on, + edited for accuracy quality and legibility by owocki himself.
+(vibe-written by claude code using [this prompt](https://github.com/owocki/gg24/blob/main/prompt.txt), iterated on, + edited for accuracy quality and legibility by owocki himself.)
 
 ## Leaderboard
-< create a table, insert the "[TITLE](URL) by AUTHOR", OWOCKI_RATING, OWOCKI_HIGH_LEVEL_FEEDBACK_FROM_OWOCKI, OWOCKIS_ROSE, OWOCKI_THORN, OWOCKI_BUD (where rose = whats good about it, thorn = what needs improvmeent, and bud = what could blossom into being good) of each proposal.  sort by rating descending >
+< create a table, insert the "[TITLE](URL) by AUTHOR", OWOCKI_RATING, OWOCKI_HIGH_LEVEL_FEEDBACK_FROM_OWOCKI, OWOCKIS_ROSE, OWOCKI_THORN, OWOCKI_BUD (where rose = whats good about it, thorn = what needs improvmeent, and bud = what could blossom into being good - actually spend some time thinking about these feedback scores and provide a custom thoughtful and constructive feedback, rose, bud, thorn, for each proposal) of each proposal.  sort by rating descending >
 
 # Reports
 
@@ -120,4 +120,6 @@ after you've done all that, change the title of each entry in the list to
 ```
 
 and sort the proposals in the body by the rating in descending order
+
+then spin up another agent to double check the scores, and feedback and make sure that your feedback is correct and actually solidly based on the information in the posts.  if you notice inconsistencies in the report, add them inline as comments in red next to the consistenncy.
 
