@@ -14,6 +14,8 @@ lay them out like this
 
 by NAME
 
+## Proposal
+
 ### TLDR
 
 TLDR
@@ -93,7 +95,6 @@ important:
 - clean up after yourself, do not alter any files besides data/data.csv and data/data.md or scripts in scripts, or posts/.  
 - use the data in posts/, if the data is missing you can download it and create it. just make sure to use the existing naming conventions for the .html files
 - use/update the scripts in scripts/ if needed. you have a preference for DRY (dont repeeat yourself) - eg do not create a new script if a script to do something already exists and works okay. if a script does exist but it doesnt work, update it before creating a new one.
-- when filling out the information, use a concise representation of the infor as possible. unless explicitly asked to be verbose, put less than 10 words in each row, keep it very concise. 
 - fill out the scorecard for each proposal using kevin owockis vision and voice.
 - after you are done evaluating each proposal put the following content at the top of the markdown file
 

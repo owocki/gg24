@@ -1,1 +1,2 @@
 - do 3 posts as a test first. only do 3 then exit the post-processing loop.
+- when filling out the information, use a concise representation of the infor as possible. unless explicitly asked to be verbose, put less than 10 words in each row, keep it very concise. 
