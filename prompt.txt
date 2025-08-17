@@ -29,6 +29,7 @@ SOLUTION
 ### Domain Experts
 
 DOMAIN EXPERTS
+THEIR_CREDENTIALS
 
 ### Target Projects (Examples)
 
@@ -46,27 +47,28 @@ MECHANISM
 
 ### Risks
 
-RISKS
+DESCRIBE_EXECUTION_RISKS_IN_DETAIL
 
 ## Outside Funding
 
-OUTSIDE FUNDING
+HAVE THEY NOTED ANY OUTSIDE FUNDING?
 
 ## Owockis scorecard
 
 |#|Criterion|0|1|2|Notes|
 | --- | --- | --- | --- | --- | --- |
-|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids “solutionism”|||||
-|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research|||||
-|3|Domain Expertise – Proposal has active involvement from recognized experts|||||
-|4|Co-Funding – Has financial backing beyond just Gitcoin|||||
-|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain|||||
-|6|Clarity (TL;DR) – Includes a concise summary at the top|||||
-|7|Execution Readiness – Can deliver meaningful results by October|||||
-|8|Other - general vibe check and other stuff I may have missed aboev..|||||
+|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids “solutionism”||||SCORE_EXPLANATION|
+|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research||||SCORE_EXPLANATION|
+|3|Domain Expertise – Proposal has active involvement from recognized experts||||SCORE_EXPLANATION|
+|4|Co-Funding – Has financial backing beyond just Gitcoin||||SCORE_EXPLANATION|
+|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain||||SCORE_EXPLANATION|
+|6|Clarity (TL;DR) – Includes a concise summary at the top||||SCORE_EXPLANATION|
+|7|Execution Readiness – Can deliver meaningful results by October||||SCORE_EXPLANATION|
+|8|Other - general vibe check and other stuff I may have missed aboev..||||SCORE_EXPLANATION|
 
 ### Score
 
+Confidence : CONFIDENCE_PERCENTAGE% (how confident agent is about the score)
 Total Score: ___ / 16
 
 ### Feedback:
@@ -91,9 +93,8 @@ important:
 - clean up after yourself, do not alter any files besides data/data.csv and data/data.md or scripts in scripts, or posts/.  
 - use the data in posts/, if the data is missing you can download it and create it. just make sure to use the existing naming conventions for the .html files
 - use/update the scripts in scripts/ if needed. you have a preference for DRY (dont repeeat yourself) - eg do not create a new script if a script to do something already exists and works okay. if a script does exist but it doesnt work, update it before creating a new one.
-- when filling out the information, use the most concise representation of the tldr as possible. unless explicitly asked to be verbose, put less than 1 sentence in each row, keep it very concise. 
+- when filling out the information, use a concise representation of the infor as possible. unless explicitly asked to be verbose, put less than 10 words in each row, keep it very concise. 
 - fill out the scorecard for each proposal using kevin owockis vision and voice.
-- do 3 posts as a test first. only do 3 then exit the post-processing loop.
 - after you are done evaluating each proposal put the following content at the top of the markdown file
 
 ```
