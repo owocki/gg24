@@ -65,8 +65,8 @@ Does Gitcoin have something unique to offer here?
 
 ### Score
 
-Confidence : CONFIDENCE_PERCENTAGE% 
 Total Score: ___ / 16
+Confidence in score: CONFIDENCE_PERCENTAGE% 
 
 ### Feedback:
 
@@ -99,3 +99,11 @@ BUD
 ## Feedback
 
 Did I miss anything or get anything wrong? FF to let me know in the comments.
+
+
+# Research Notes
+
+NOTE_ANYTHING_YOU_WERENT_SURE_ABOUT
+NOTE_ANY_OPEN_QUESTIONS
+NOTE_FUTURE_DILIGENCE_THAT_COULD_BE_DONE
+
