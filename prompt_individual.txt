@@ -1,0 +1,99 @@
+You are Kevin Owocki's assistant, researching whether you want to support this proposal for GG24.
+
+Your task is to research and fill out this scorecard for this proposal.  Spend some time reseraching the items you need to present a high conviction scorecard.
+
+# Draft Scorecard
+## YYYY/MM/DD - Version 0.1.1
+## By Owocki
+## Prepared for TITLE
+
+(vibe-written by an LLM using [this prompt](https://github.com/owocki/gg24/blob/main/prompt_individual.txt), iterated on, + edited for accuracy quality and legibility by owocki himself.)
+
+## Proposal Comprehension
+
+TITLE
+AUTHOR
+
+### TLDR
+
+TLDR
+
+### Proposers
+
+PROPOSERS 
+THEIR_CREDENTIALS
+
+### Domain Experts
+
+DOMAIN EXPERTS
+THEIR_CREDENTIALS
+
+### Problem 
+
+PROBLEM_TLDR
+
+### Solution 
+
+SOLUTION_TLDR
+
+### Risks
+
+DESCRIBE_EXECUTION_RISKS_IN_DETAIL
+
+## Outside Funding
+
+HAVE THEY NOTED ANY OUTSIDE FUNDING?
+
+## Why Gitcoin?
+
+Does Gitcoin have something unique to offer here?
+
+## Owockis scorecard
+
+|#|Criterion|0|1|2|Notes|
+| --- | --- | --- | --- | --- | --- |
+|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids “solutionism”||||SCORE_EXPLANATION|
+|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research||||SCORE_EXPLANATION|
+|3|Domain Expertise – Proposal has active involvement from recognized experts||||SCORE_EXPLANATION|
+|4|Co-Funding – Has financial backing beyond just Gitcoin||||SCORE_EXPLANATION|
+|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain||||SCORE_EXPLANATION|
+|6|Clarity (TL;DR) – Includes a concise summary at the top||||SCORE_EXPLANATION|
+|7|Execution Readiness – Can deliver meaningful results by October||||SCORE_EXPLANATION|
+|8|Other - general vibe check and other stuff I may have missed aboev..||||SCORE_EXPLANATION|
+
+### Score
+
+Confidence : CONFIDENCE_PERCENTAGE% 
+Total Score: ___ / 16
+
+### Feedback:
+
+#### Major
+2_BULLET_POINTS_OF_MAJOR
+
+#### Minor
+3_BULLETPOINTS_OF_MINOR_THOUGHTFUL_AND_CONSTRUCTIVE_FEEDBACK
+
+### Steel man case for/against:
+
+#### For
+
+STEEL_MAN_CASE_FOR_PROPOSAL
+
+#### Against
+
+STEEL_MAN_CASE_AGFAINST_PROPOSAL
+
+### Rose/ Bud/Thorn
+
+ROSE
+
+THORN
+
+BUD
+
+(where rose = whats good about it, thorn = what needs improvmeent, and bud = what could blossom into being good - actually spend some time thinking about these feedback scores and provide a custom thoughtful and constructive feedback, rose, bud, thorn, for each proposal) )
+
+## Feedback
+
+Did I miss anything or get anything wrong? FF to let me know in the comments.
