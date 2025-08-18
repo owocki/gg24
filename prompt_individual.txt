@@ -7,7 +7,7 @@ Formatting notes: dont bold inline text,its distracting.  dont use emdashes.  wr
 # Draft Scorecard
 ## YYYY/MM/DD - Version 0.1.1
 ## By Owocki
-## Prepared for TITLE
+## Prepared for AUTHOR re: "TITLE"
 
 (vibe-researched-and-written by an LLM using [this prompt](https://github.com/owocki/gg24/blob/main/prompt_individual.txt), iterated on, + edited for accuracy quality and legibility by owocki himself.)
 
