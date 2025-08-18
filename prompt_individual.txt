@@ -15,6 +15,7 @@ Formatting notes: dont bold inline text,its distracting.  dont use emdashes.  wr
 
 TITLE
 AUTHOR
+URL
 
 ### TLDR
 
