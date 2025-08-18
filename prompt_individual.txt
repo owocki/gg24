@@ -52,20 +52,19 @@ Does Gitcoin have something unique to offer here?
 
 ## Owockis scorecard
 
-|#|Criterion|0|1|2|Notes|
+|#|Criterion|Score(0-2)|Notes|
 | --- | --- | --- | --- | --- | --- |
-|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids “solutionism”||||SCORE_EXPLANATION|
-|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research||||SCORE_EXPLANATION|
-|3|Domain Expertise – Proposal has active involvement from recognized experts||||SCORE_EXPLANATION|
-|4|Co-Funding – Has financial backing beyond just Gitcoin||||SCORE_EXPLANATION|
-|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain||||SCORE_EXPLANATION|
-|6|Clarity (TL;DR) – Includes a concise summary at the top||||SCORE_EXPLANATION|
-|7|Execution Readiness – Can deliver meaningful results by October||||SCORE_EXPLANATION|
-|8|Other - general vibe check and other stuff I may have missed aboev..||||SCORE_EXPLANATION|
+|1|Problem Focus – Clearly frames a real problem, (one that is a priority), avoids “solutionism”|INSERT_SCORE|SCORE_EXPLANATION|
+|2|Credible, High leverage, Evidence-Based Approach – Solutions are high-leverage and grounded in credible research|INSERT_SCORE|SCORE_EXPLANATION|
+|3|Domain Expertise – Proposal has active involvement from recognized experts|INSERT_SCORE|SCORE_EXPLANATION|
+|4|Co-Funding – Has financial backing beyond just Gitcoin|INSERT_SCORE|SCORE_EXPLANATION|
+|5|Fit-for-Purpose Capital Allocation Method – Methodology matches the epistemology of the domain|INSERT_SCORE|SCORE_EXPLANATION|
+|6|Execution Readiness – Can deliver meaningful results by October||SCORE_EXPLANATION|
+|7|Other - general vibe check and other stuff I may have missed aboev..||SCORE_EXPLANATION|
 
 ### Score
 
-Total Score: ___ / 16
+Total Score: ___ / 14
 Confidence in score: CONFIDENCE_PERCENTAGE% 
 
 ### Feedback:
